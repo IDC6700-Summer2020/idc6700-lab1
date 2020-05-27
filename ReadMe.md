@@ -1,5 +1,5 @@
 # Lab 1 Assignment
-Please write an R script that performs the operations described below.  When you are done, submit your assignment by pushing to GitHub.  You do not need to submit anything in Cavas.  That is, make sure it will provide output using the source() command from within R.  Perform all the operations described below.  Comment your script so that I know which lines are meant to address which item in the list below.
+Please write an R script that performs the operations described below.  When you are done, submit your assignment by pushing to GitHub.  You do not need to submit anything in Cavas.  Make sure the file you submit can be executed in R or RStudio with a clean environment.  That is, make sure it will provide output using the source() command from within R.  Perform all the operations described below.  Comment your script so that I know which lines are meant to address which item in the list below.
 
 1. Install R and R-Studio:
   * http://www.r-project.org 
